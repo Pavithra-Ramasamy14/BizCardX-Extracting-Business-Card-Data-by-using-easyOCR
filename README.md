@@ -44,13 +44,16 @@ Developer Guide
 4. E T L Process
 
 a) Extract data
+  
   Extract relevant information from business cards by using the easyOCR library
 
 b) Process and Transform the data
+  
   After the extraction process, process the extracted data based on name, designation,contact, email, website,street,city,state,
   pincode,company is converted into a data frame.
 
 c) Load data
+  
   After the transformation process, the data is stored in the MySQL database.
 
 User Guide
